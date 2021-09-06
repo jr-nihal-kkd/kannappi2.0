@@ -27,11 +27,11 @@
         },
         "admin": {
             "BAN_DESC": "Ban someone in the group. Reply to message or tag a person to use command.",
-            "IM_NOT_ADMIN": "*njan admin alla macha☹️*",
+            "IM_NOT_ADMIN": "*njan admin allada monu☹️....orengilum oru sed bgm itt thadey...*",
             "BANNED": "Mwonu Ok Bie!",
             "GIVE_ME_USER": "*arelum mention chey😈!*",
             "ADD_DESC": "Adds someone to the group.",
-            "ADDED": "added to the group!",
+            "ADDED": "add akkal secceced!",
             "ALREADY_PROMOTED": "```Avan admin anu nenpa🙃```",
             "PROMOTED": "```admin role was given!```",
             "PROMOTE_DESC": "Makes any person an admin.",
@@ -43,7 +43,7 @@
             "UNMUTE_DESC": "Unmute the group chat. Anyone can send a message.",
             "UNMUTED": "```The group chat has unmuted!```",
             "INVITE_DESC": "Provides the group's invitation link.",
-            "INVITE": "```Invitation link: ```"
+            "INVITE": "```Inna pidicho....: ```"
         },
         "locate": {
             "L_DESC": "It send your location.",
@@ -57,7 +57,7 @@
             "LAST_SEEN": "Last Seen",
             "IM_NOT_AFK": "```I am not AFK anymore!```",
             "AFK_TEXT": "```My owner is not here at the moment.```",
-            "AFK_TEXT_NOMD": "I am bot!",
+            "AFK_TEXT_NOMD": "Njanoru kannappi bott aney....!",
             "HOUR": "hour",
             "MINUTE": "minute",
             "SECOND": "second"
@@ -88,9 +88,9 @@
         },
         "heroku": {
             "RESTART_DESC": "Restart WhatsAsena",
-            "RESTART_MSG": "```Restarting...🧚‍♂️```",
+            "RESTART_MSG": "```kannapppi Restarting...👻```",
             "SHUTDOWN_DESC": "Shutdown WhatsAsena",
-            "SHUTDOWN_MSG": "```Shutting down 😴```",
+            "SHUTDOWN_MSG": "```Ini kurach neram restedukkatte😴```",
             "DYNO_DESC": "Check heroku dyno usage",
             "DYNO_TOTAL": "```Total Quota```",
             "DYNO_USED": "```Quota used```",
@@ -107,7 +107,7 @@
         },
         "filters": {
             "FILTER_DESC": "It adds a filter. If someone writes your filter, it send the answer. If you just write .filter, it show's your filter list.",
-            "NO_FILTER": "*❌ There are no filters in this chat!*",
+            "NO_FILTER": "*❌ Entho oru thett und bro....😕!*",
             "FILTERS": "*🔎 There is your filters in this chat:*",
             "NEED_REPLY": "*❌ Please type in reply!*\n*Example:*",
             "FILTERED": "*✅ Successfully set* ```{}``` *to filter!*",
@@ -206,7 +206,7 @@
             "SONG_DESC": "Uploads the song you wrote.",
             "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song Perfect ok```",
             "NO_RESULT": "*I couldn't find anything :(*",
-            "DOWNLOADING_SONG": "\n*Song Thapatte 🧚‍♂️*\n",
+            "DOWNLOADING_SONG": "\n*Kannappi surching a song 🧚‍♂️*\n",
             "UPLOADING_SONG": "\n*Song upload cheyyunnu aliyaa, cheviyil vekkuna sadanam pettanu vecho 👉🎧*\n",
             "VIDEO_DESC": "Downloads video from YouTube.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
