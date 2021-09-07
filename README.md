@@ -5,10 +5,10 @@ Best whatsapp bot | Reedited from whatsasena
 <div align="center">
   <img border-radius: 15px src="kannappi.jpg" width="250" height="250"/>
   <p align="center">
-<a href="#"><img title="Sophia" src="https://img.shields.io/badge/kannappi-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Kannappi" src="https://img.shields.io/badge/kannappi-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Hisham-muhammed"><img title="Author" src="https://img.shields.io/badge/Author-Nihal-muhammed/kannappi?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/jr-nihal-kkd"><img title="Author" src="https://img.shields.io/badge/Author-Nihal-muhammed/kannappi?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -25,10 +25,10 @@ Project created by <a href="https://github.com/jr-nihal-kkd/kannappi">jr-nihal-k
   <a href="httsp://github.com/jr-nihal-kkd/kannappi">
     <img src="https://img.shields.io/github/repo-size/jr-nihal-kkd/kannappi?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/ameer-kallumthodi/followers"><img title="Followers" src="https://img.shields.io/github/followers/Hisham-muhammed?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/ameer-kallumthodi/pikachu/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/jr-nihal-kkd/kannappi-1?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/ameer-kallumthodi/pikachu/network/members"><img title="Forks" src="https://img.shields.io/github/forks/jr-nihal-kkd/kannappi-1?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/ameer-kallumthodi/pikachu/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/jr-nihal-kkd/kannappi-1?label=Watchers&color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/jr-nihal-kkd/followers"><img title="Followers" src="https://img.shields.io/github/followers/Hisham-muhammed?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/jr-nihal-kkd/kannappi/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/jr-nihal-kkd/kannappi-1?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/jr-nihal-kkd/kannappi/network/members"><img title="Forks" src="https://img.shields.io/github/forks/jr-nihal-kkd/kannappi-1?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/jr-nihal-kkd/kannappi/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/jr-nihal-kkd/kannappi-1?label=Watchers&color=f7df1e&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-f7df1e.svg"</a>
 </p>
 
@@ -45,7 +45,7 @@ Project created by <a href="https://github.com/jr-nihal-kkd/kannappi">jr-nihal-k
 <div align="center">
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jr-nihal-kkd&show_icons=true&theme=nightowl" alt="jr-nihal-kkd" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hisham-muhammed&theme=nightowl" alt="jr-nihal-kkd" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jr-nihal-kkd&theme=nightowl" alt="jr-nihal-kkd" /></p>
 </details> </div>
 
 
@@ -58,7 +58,7 @@ Click WA logo to Join Support Group ðŸ‘‡
 ## 
   <h3 align="center">ðŸ“¢ Support Group 2:</h3>
 <p align="center">
-Click Sophia logo to Join Support Group 2ðŸ‘‡
+Click logo to Join Support Group 2ðŸ‘‡
     <br>
 <br>
   <a href="https://chat.whatsapp.com/EhyAU68l1SL2IyXuLtXoAL" target="blank"><img align="center" src="kannappi.jpg" alt="kyrie.baran" height="200" width="200" /></a>
@@ -97,7 +97,7 @@ $ node qr.js
 ```js
 SETUP
 $ git clone https://github.com/jr-nihal-kkd/kannappi
-$ cd Sophia-Mwol
+$ cd kannappi
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ node qr.js
