@@ -46,7 +46,7 @@
             "INVITE": "```Inna pidicho....: ```"
         },
         "locate": {
-            "L_DESC": "It send your location.",
+            "L_DESC": "Location snd cheyy nanba.",
             "L_WARN": "Please open your location before using command!"
         },
         "afk": {
@@ -114,7 +114,7 @@
             "STOP_DESC": "Stops the filter you added previously.",
             "NEED_FILTER": "*❌ Please type a filter!*\n*Example:*",
             "ALREADY_NO_FILTER": "*❌ There is already no filter like this!*",
-            "DELETED": "*✅ The filter was successfully deleted!*"
+            "DELETED": "*✅ filter delete cheythittund nanba..!*"
         },
          "font":{
             "FONT_DESC": "Make your text fancy.",
@@ -124,10 +124,10 @@
         "greetings": {
             "WELCOME_DESC": "It sets the welcome message. If you leave it blank it shows the welcome message.",
             "NOT_SET_WELCOME": "*You don't set the welcome message yet.!*\n**To set:** ```.welcome your welcome message```",
-            "WELCOME_ALREADY_SETTED": "*✅ Welcome message already set!*\n*Message:* ```",
+            "WELCOME_ALREADY_SETTED": "*✅ Welcome message already settan..!*\n*Message:* ```",
             "NEED_WELCOME_TEXT": "*You must write a message to set up the welcome message.*\n*Example:* ```.welcome WELCOME!```",
             "WELCOME_DELETED": "*✅ Welcome message has been deleted successfully!*",
-            "WELCOME_SETTED": "*✅ Welcome message has been set successfully!*",
+            "WELCOME_SETTED": "*✅ Welcome messege settayittund ini aar vannalum njan welcom cheyyum!🤗*",
             "GOODBYE_DESC": "Sets the goodbye message. If you leave blank, it show's the goodbye message.",
             "NOT_SET_GOODBYE": "*You didn't set a goodbye message!*\n*To set:* ```.goodbye Your Goodbye Message```",
             "GOODBYE_ALREADY_SETTED": "*✅ Goodbye message has been set!*\n*Message:* ```",
@@ -152,7 +152,7 @@
         },
         "log": {
             "LOG": "Saves the message you reply to your private number.",
-            "REPLY": "*Please Reply To Any Message!*",
+            "REPLY": "*Enthelum rply aayi tha aliya...!*",
             "ANIM": "Does not support animated stickers!",
             "HEAD": "```===== [LOGGED MESSAGE] =====```\n\n",
             "USER": " From User Number \n",
@@ -169,10 +169,10 @@
         },
         "profile": {
             "KICKME_DESC": "It kicks you from the group you are using it in.",
-            "KICKME": "```Bye bye! I am going 🤠```",
+            "KICKME": "```Enna settanangott...Bye bye! ```",
             "PP_DESC": "Makes the profile photo what photo you reply.",
-            "NEED_PHOTO": "*Give me a photo!*",
-            "PPING": "```Setting profile photo...```",
+            "NEED_PHOTO": "*Oru photo tha..!*",
+            "PPING": "```profile photo setting...```",
             "BLOCK_DESC": "Block user.",
             "UNBLOCK_DESC": "Unblock user.",
             "BLOCKED": "blocked",
@@ -188,29 +188,29 @@
             "REMOVEBG_DESC": "Removes the background of the photos.",
             "NEED_PHOTO": "*photo thaa mister!*",
             "NO_API_KEY": "*api key illa*\n```remove.bg login for apikey```",
-            "RBGING": "```Removing...```"
+            "RBGING": "```Removing...chelolth rdiyavum chelolth rediyavula but ninde...```"
         },
         "scrapers": {
             "TRANSLATE_DESC": "It translates with Google Translate. You must reply any message.",
             "TRANSLATE_USAGE": ".trt tr it (From Turkish to Italian)",
-            "NEED_REPLY": "```Please reply to any message!```",
+            "NEED_REPLY": "```aliya..reply to any message!```",
             "LANG": "Language",
             "FROM": "Translated Language",
             "RESULT": "Translate",
-            "TRANSLATE_ERROR": "❌ An error occured while translating!*",
+            "TRANSLATE_ERROR": "❌ Nadakkunnilla aliya!*",
             "CURRENCY_ERROR": "```Syntax error! Example: .currency 1 TRY USD```",
             "INVALID_CURRENCY": "```Foreign currency transaction failed. You wrote wrong currency!```",
             "UNKNOWN_ERROR": "```An error occurred. Foreign currency transaction failed!```",
             "TTS_DESC": "It converts text to sound.",
             "TTS_ERROR": "```Error, Speech example of your sentence couldn't be made!```",
             "SONG_DESC": "Uploads the song you wrote.",
-            "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song Perfect ok```",
-            "NO_RESULT": "*I couldn't find anything :(*",
-            "DOWNLOADING_SONG": "\n*Kannappi surching a song 🧚‍♂️*\n",
-            "UPLOADING_SONG": "\n*Song upload cheyyunnu aliyaa, cheviyil vekkuna sadanam pettanu vecho 👉🎧*\n",
+            "NEED_TEXT_SONG": "*Song name para man..!*\n*Example:* ```.song Perfect ok```",
+            "NO_RESULT": "*Nnan nokkitt onnum kanunnilla! :(*",
+            "DOWNLOADING_SONG": "\n*Kannappi surching a song 👻*\n",
+            "UPLOADING_SONG": "\n*Song kittippoy aliyaa, cheviyil vekkuna suna ondel pettanu vecho 👉🎧*\n",
             "VIDEO_DESC": "Downloads video from YouTube.",
-            "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
-            "DOWNLOADING_VIDEO": "```Downloading. 🎥...```",
+            "NEED_VIDEO": "*videode link tha..man!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
+            "DOWNLOADING_VIDEO": "```Downloading. 🎥...chelolth rediyavum chelolth rediyavula..```",
             "UPLOADING_VIDEO": "```Upload cheyyatte manushya...```",
             "YT_DESC": "It searchs on youtube .",
             "NEED_WORDS": "```Please write a few words!```",
@@ -224,7 +224,7 @@
         "sticker": {
             "STICKER_DESC": "It converts your replied photo or video to sticker.",
             "NEED_REPLY": "*Reply to a photo or video!*",
-            "DOWNLOADING": "```Sticker.. aaki. tharunnu 🤠```"
+            "DOWNLOADING": "```Ayikkotte sir...👻```"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
@@ -232,18 +232,18 @@
         },
         "tagall": {
             "TAGALL_DESC": "Tags everyone in the group.",
-            "ADMİN": "*I am not admin in this group!*"
+            "ADMİN": "*Njan adminalla bayi..☹️Arelum oru sad bgm itt tharvo..😶!*"
         },
         "updater": {
             "UPDATER_DESC": "Checks the update.",
             "UPDATE": "*Nan ippol thanne update aanallo machaa..!*",
-            "NEW_UPDATE": "* Sophiak k update cheyyan und 😊*\n\n please ask support group before updating. Otherwise chance to get errors. supportgrouplink: https://chat.whatsapp.com/Kne4KggCeYoE9vIc6iZLZJ \n\nChanges:\n```",
+            "NEW_UPDATE": "* Nthan bhayi update cheyyan und 😊*\n\n Onnum nokkanda update cheytholi. Enthelum samshayam ondel keri va. supportgrouplink: https://chat.whatsapp.com/EhyAU68l1SL2IyXuLtXoAL \n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
-            "UPDATING": "```Update aakunnu, wait few minutes ..🧚‍♂️```",
+            "UPDATING": "```Update aakunnu, konjum wait cheyy kutta..👻```",
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
-            "UPDATED": "*Update. aaki.. monuse😌 🤠✅*",
-            "UPDATED_LOCAL": "*✅ Successfully Updated!*",
-            "AFTER_UPDATE": "*😎 SOPHIA Restarting*"
+            "UPDATED": "*Update. aaki.. monuse😌 Enjoy..🥳*",
+            "UPDATED_LOCAL": "*✅ Update ayee...🥳!*",
+            "AFTER_UPDATE": "*😎 Kannappi Restarting*"
         },
         "weather": {
             "WEATHER_DESC": "Shows the weather.",
